@@ -12,9 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    protected void onCreate2(Bundle savedInstanceState) { //TODO delete!!
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-    }
-
 }
